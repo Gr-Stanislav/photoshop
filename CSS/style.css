@@ -9,15 +9,15 @@ header {
     height: 420px;
     margin: 150px auto;
     background-color: black;
+    position: absolute;
 }
 
 .content {
-    margin: 192px auto;
+    margin: 0 auto;
     margin-top: 192px;
     width: 230px;
     border-bottom: 1px solid white;
     text-align: center;
-    padding-top: 190px;
 }
 h2 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -25,4 +25,33 @@ h2 {
     color: white;
     margin-bottom: 32px;
     margin-top: 0px;
+}
+
+
+.conteiner-images {
+    width: 230px;
+    height: 20px;
+    margin: 25px auto;
+}
+
+#Face {
+    width: 6.59px;
+}
+
+.conteiner-images img {
+    height: 14.13px;
+    width: 14.18px;
+    margin-left: 34px;
+    transition: all .25s;
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-family: OpenSans-Semibold;
+    margin-top: 60px;
+}
+
+.col {
+    color: #00E1FF;
 }
