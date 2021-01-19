@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    max-width: 1920px;
+    height: 420px;
+    margin: 150px auto;
+    background-color: black;
+}
+
+.content {
+    margin: 192px auto;
+    margin-top: 192px;
+    width: 230px;
+    border-bottom: 1px solid white;
+    text-align: center;
+    padding-top: 190px;
+}
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: white;
+    margin-bottom: 32px;
+    margin-top: 0px;
+}
